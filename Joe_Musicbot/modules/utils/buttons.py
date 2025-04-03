@@ -168,7 +168,7 @@ AddMeButton = types.ReplyMarkupInlineKeyboard(
             types.InlineKeyboardButton(
                 text="Add me to your group",
                 type=types.InlineKeyboardButtonTypeUrl(
-                    "https://t.me/FallenBeatzBot?startgroup=true"
+                    "https://t.me/Joe_Musicbot?startgroup=true"
                 ),
             ),
         ],
