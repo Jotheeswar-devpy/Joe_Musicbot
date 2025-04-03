@@ -23,7 +23,7 @@ from typing import Union
 from pytdbot import filters, types
 
 from Joe_Musicbot.logger import LOGGER
-from Joe_Musicbot.buttons import play_button, PauseButton, ResumeButton, SupportButton
+from .buttons import play_button, PauseButton, ResumeButton, SupportButton
 
 
 def sec_to_min(seconds):
