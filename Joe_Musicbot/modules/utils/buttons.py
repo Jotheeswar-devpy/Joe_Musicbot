@@ -152,11 +152,11 @@ SupportButton = types.ReplyMarkupInlineKeyboard(
         [
             types.InlineKeyboardButton(
                 text="❄ Channel",
-                type=types.InlineKeyboardButtonTypeUrl("https://t.me/FallenProjects"),
+                type=types.InlineKeyboardButtonTypeUrl("https://t.me/Joeupdates"),
             ),
             types.InlineKeyboardButton(
                 text="✨ Group",
-                type=types.InlineKeyboardButtonTypeUrl("https://t.me/GuardxSupport"),
+                type=types.InlineKeyboardButtonTypeUrl("https://t.me/Joesupport"),
             ),
         ]
     ]
@@ -175,11 +175,11 @@ AddMeButton = types.ReplyMarkupInlineKeyboard(
         [
             types.InlineKeyboardButton(
                 text="❄ Channel",
-                type=types.InlineKeyboardButtonTypeUrl("https://t.me/FallenProjects"),
+                type=types.InlineKeyboardButtonTypeUrl("https://t.me/Joeupdates"),
             ),
             types.InlineKeyboardButton(
                 text="✨ Group",
-                type=types.InlineKeyboardButtonTypeUrl("https://t.me/GuardxSupport"),
+                type=types.InlineKeyboardButtonTypeUrl("https://t.me/Joesupport"),
             ),
         ],
     ]
